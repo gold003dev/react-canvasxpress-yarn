@@ -1,0 +1,33 @@
+{
+  "name": "canvasxpress-react",
+  "main": "index.js",
+  "title": "CanvasXpress React",
+  "version": "49.8.2",
+  "license": {
+    "type": "Dual licensing",
+    "url": "https://www.canvasxpress.org/docs/license.html"
+  },
+  "description" : "Node program to run canvasXpress with react",
+  "repository" : {
+    "type" : "git",
+    "url": "https://github.com/neuhausi/canvasXpress-react.git"
+  },
+  "keywords": [
+    "bioinformatics",
+    "genomics",
+    "data",
+    "visualization",
+    "graph",
+    "reproducible",
+    "research",
+    "analytics"
+  ],
+  "author": "Isaac M. Neuhaus",
+  "bugs": {
+    "url": "https://github.com/neuhausi/canvasxpress/issues"
+  },
+  "homepage": "https://github.com/neuhausi/canvasxpress#readme",
+  "dependencies": {
+    "canvasxpress": "^49.8.2"
+  }
+}
